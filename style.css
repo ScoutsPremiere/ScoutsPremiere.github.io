@@ -5,3 +5,9 @@ html, body {
 .topMenu { 
 	text-align: center;
 }
+
+.button{
+	color: #FFF;
+	background-color: #000;
+	
+}
