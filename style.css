@@ -2,12 +2,13 @@ html, body {
     background-color: lightblue;
 }
 
-.topMenu { 
+.nav { 
 	text-align: center;
+	background: #000;
 }
 
 .button{
-	color: #FFF;
+	color: lightblue;
 	background-color: #000;
 	padding: 10px 40px;
 	text-decoration: none;
