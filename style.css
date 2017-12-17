@@ -5,6 +5,7 @@ html, body {
 .nav { 
 	text-align: center;
 	background-color: #000;
+	margin: 10px;
 }
 
 .button{
