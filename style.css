@@ -2,6 +2,10 @@ html, body {
     background-color: lightblue;
 }
 
+.titre{
+	text-align: center;
+}
+
 .nav { 
 	text-align: center;
 	background-color: #fff;
