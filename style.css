@@ -7,8 +7,11 @@ html, body {
 }
 
 strong{
-	text-decoration: underline;
-	font-weight: normal;
+	font-weight: bolder;
+}
+
+em{
+	text-decoration: underline;	
 }
 
 nav { 
@@ -30,7 +33,6 @@ footer {
 }
 
 .lienProgramme {
-	text-align: center;
 	font-size: 30px;
 }
 
