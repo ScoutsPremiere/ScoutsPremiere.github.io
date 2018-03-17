@@ -6,6 +6,11 @@ html, body {
 	text-align: center;
 }
 
+strong{
+	text-decoration: underline;
+	font-weight: normal;
+}
+
 nav { 
 	text-align: center;
 	background-color: lightblue;
@@ -30,9 +35,14 @@ footer {
 }
 
 section {
+	background-color: cadetblue;
 	padding: 12px;
 	margin: 50px;
 	padding-top: 0px;
 	border: 1px solid black;
 	text-align: justify;
+}
+
+.auteur {
+	font-style: italic;
 }
