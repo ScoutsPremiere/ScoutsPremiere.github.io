@@ -28,3 +28,11 @@ footer {
 	text-align: center;
 	font-size: 30px;
 }
+
+section {
+	padding: 12px;
+	margin: 50px;
+	padding-top: 0px;
+	border: 1px solid black;
+	text-align: justify;
+}
