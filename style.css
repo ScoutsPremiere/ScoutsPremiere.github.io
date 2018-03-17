@@ -17,6 +17,7 @@ em{
 nav { 
 	text-align: center;
 	background-color: lightblue;
+	margin: 5px;
 	padding-top: 5px;
 	padding-bottom: 5px;
 }
