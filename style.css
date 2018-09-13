@@ -1,4 +1,4 @@
-html, body {
+html, body{
 	background-color: lightblue;
 }
 
@@ -14,7 +14,7 @@ em{
 	text-decoration: underline;	
 }
 
-nav { 
+nav{ 
 	text-align: center;
 	background-color: lightblue;
 	margin: 20px;
@@ -29,15 +29,15 @@ nav {
 	text-decoration: none;
 }
 
-footer {
+footer{
 	text-align: center;
 }
 
-.lienProgramme {
+.lienProgramme{
 	font-size: 30px;
 }
 
-section {
+section{
 	background-color: cadetblue;
 	padding: 12px;
 	margin: 50px;
@@ -45,6 +45,6 @@ section {
 	border: 1px solid black;
 }
 
-.auteur {
+.auteur{
 	font-style: italic;
 }
